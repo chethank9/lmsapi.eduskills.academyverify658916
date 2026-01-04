@@ -2,10 +2,7 @@
 <html lang="en">
 <head>
     body {
-        margin: 0;
-        font-family: Arial, Helvetica, sans-serif;
-        background: #f4f6f8;
-    }
+
 
     .container {
         max-width: 420px;
