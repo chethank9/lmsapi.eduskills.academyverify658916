@@ -1,9 +1,6 @@
 
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<title>Certificate Verification – UI Practice</title>
-<style>
     body {
         margin: 0;
         font-family: Arial, Helvetica, sans-serif;
